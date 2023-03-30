@@ -15,7 +15,7 @@
 
 ## Description
 
-*Explored the completed J.A.T.E application that has been provided to gain a deeper understanding of how a Progressive Web Application (PWA) is properly configured in a web application.*
+*Explored the completed J.A.T.E application that has been provided to gain a deeper understanding of how a Progressive Web Application (PWA) is properly configured in a web application. In this application, the user can make notes or code snippets online or offline and retrieve them reliably later.*
 >GIVEN a completed text editor web application
 >
 >WHEN I showcase the application in the video
