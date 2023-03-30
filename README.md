@@ -55,6 +55,8 @@
 - Please visit http://localhost:3000 to access the app
 
 ***See the images and video below for demo.***
+*Below you will find a screenshot of the client and server folders structure. These folder structures were already provided.*
+
 
 
 ## Contributing
