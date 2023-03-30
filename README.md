@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/117052258/228705169-50e6e3cc-2d56-4f21
 
 ![Screenshot 2023-03-29 205852](https://user-images.githubusercontent.com/117052258/228704331-91442a35-a42f-4b18-b500-ea352d507143.png)
 
-*Below you will find a screenshot of the J.A.T.E Text App Editor*
+*Below you will find screenshots of the J.A.T.E Text App Editor*
 
 ![Screenshot 2023-03-29 205625](https://user-images.githubusercontent.com/117052258/228704937-f4fcc9d9-9bdf-4ea1-9922-99d47549a59c.png)
 
