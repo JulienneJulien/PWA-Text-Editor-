@@ -50,7 +50,7 @@
 
 ## Usage
 ***Please ensure you have followed above steps first!***
-- Access your working directory project folder.
+- Access your working directory project folder..
 - Run `npm run start` to  launch the server.
 - Please visit http://localhost:3000 to access the app
 
