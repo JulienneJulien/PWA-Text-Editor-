@@ -56,6 +56,8 @@
 
 ***See the images and video below for demo.***
 
+
+
 *Below you will find a screenshot of the client and server folders structure. These folder structures were already provided.*
 
 ![Screenshot 2023-03-29 205908](https://user-images.githubusercontent.com/117052258/228704063-e8c40d86-30dd-4917-b337-6067bd74c0b8.png)
@@ -64,7 +66,13 @@
 
 ![Screenshot 2023-03-29 205852](https://user-images.githubusercontent.com/117052258/228704331-91442a35-a42f-4b18-b500-ea352d507143.png)
 
+*Below you will find a screenshot of the J.A.T.E Text App Editor*
 
+![Screenshot 2023-03-29 205625](https://user-images.githubusercontent.com/117052258/228704937-f4fcc9d9-9bdf-4ea1-9922-99d47549a59c.png)
+
+![Screenshot 2023-03-29 205812](https://user-images.githubusercontent.com/117052258/228704956-b04f5efc-44fe-4b4f-8438-ce04a1a75bfc.png)
+
+![Screenshot 2023-03-29 205833](https://user-images.githubusercontent.com/117052258/228704963-9b40d1b7-7d6e-43ee-b423-80d493ccdf57.png)
 
 
 
