@@ -43,16 +43,16 @@
 >THEN I should have, and can explain, the registered service worker using workbox
 
 ## Installation
-***Please install the package locally to your working project directory.***
-- On your preferred code editor, use the command line to run `npm i`
-- The latest version of the required packages will be installed.
+***Please install locally to your working project directory.***
+- On your preferred code editor, use the command line to run `npm install`
+- The required modules will be installed and bundled in the created package-lock.json file.
 
 
 ## Usage
-***Please ensure you have followed above steps to install package first!***
+***Please ensure you have followed above steps first!***
 - Access your working directory project folder.
-- Run `npm run start` to  launch the server...
-- Use Insomnia to call APIs at http://localhost:3001
+- Run `npm run start` to  launch the server.
+- Please visit http://localhost:3000 to access the app
 
 ***See the images and video below for demo.***
 
