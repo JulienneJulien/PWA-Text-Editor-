@@ -51,7 +51,7 @@
 ## Usage
 ***Please ensure you have followed above steps to install package first!***
 - Access your working directory project folder.
-- Run `npm run start` to  launch the server..
+- Run `npm run start` to  launch the server...
 - Use Insomnia to call APIs at http://localhost:3001
 
 ***See the images and video below for demo.***
