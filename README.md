@@ -55,7 +55,17 @@
 - Please visit http://localhost:3000 to access the app
 
 ***See the images and video below for demo.***
+
 *Below you will find a screenshot of the client and server folders structure. These folder structures were already provided.*
+
+![Screenshot 2023-03-29 205908](https://user-images.githubusercontent.com/117052258/228704063-e8c40d86-30dd-4917-b337-6067bd74c0b8.png)
+
+*Below you will find a screenshot of the bundled webpack plugins after we ran `npm run start`*
+
+![Screenshot 2023-03-29 205852](https://user-images.githubusercontent.com/117052258/228704331-91442a35-a42f-4b18-b500-ea352d507143.png)
+
+
+
 
 
 
