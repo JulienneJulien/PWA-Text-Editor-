@@ -44,8 +44,8 @@
 
 ## Installation
 ***Please install the package locally to your working project directory.***
-- On your preferred code editor, use the command line to run `npm i`
-- The latest version of the required packages will be installed.
+- On your preferred code editor, use the command line to run `npm install`
+- The required modules will be installed and bundled in the created package-lock.json file.
 
 
 ## Usage
