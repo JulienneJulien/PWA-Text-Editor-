@@ -5,6 +5,7 @@
 
 - [PWA-Text-Editor](#pwa-text-editor)
   - [Table of Content](#table-of-content)
+  - [Deployment](#deployment)
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -12,6 +13,10 @@
   - [Tests](#tests)
   - [License](#license)
   - [Questions](#questions)
+
+## Deployment
+
+https://juliennejulien.github.io/PWA-Text-Editor-/
 
 ## Description
 
